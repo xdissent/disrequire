@@ -1,0 +1,11 @@
+{
+  "name": "disrequire",
+  "version": "0.0.0",
+  "description": "Remove a file or module from the node require cache",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Greg Thornton <xdissent@me.com> (http://xdissent.com)",
+  "license": "MIT"
+}
